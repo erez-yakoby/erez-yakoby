@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**erez-yakoby/erez-yakoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Erez.
+I am a 3rd year student for Computer Science at the Hebrew University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Projects:
+
+
+## Listricks
+[Listricks Reposetory](http://handlebarsjs.com/)
+
+Listricks is an Android app for organizing and sharing shopping lists.
+Me and my partner Dor Peleg, created Listricks during an Android App Development course by **Lightricks**.
+
+**Front End:** Created with **Android Studio** and **Kotlin** (MVVM arcitecture, RecyclerViews, Permissions, Content Providers). 
+
+**Back End:** Serverless with the services of **AWS (API Gateway, Lambda, DynamoDB, CloudFormation)**, written with **Python**. 
+
+**API:** Created **RESTful API** using API Gateway.
+
+**Tools:** All of this project was made using **Git** with forking workflow.
