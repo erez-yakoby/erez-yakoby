@@ -11,7 +11,7 @@ I am a 3rd year student for Computer Science at the Hebrew University.
 [Listricks Reposetory](https://github.com/erez-yakoby/Listricks.git)
 
 Listricks is an Android app for organizing and sharing shopping lists.
-Me and my partner Dor Peleg, created Listricks during an Android App Development course by **Lightricks**.
+Me and my partner Dor Peleg created Listricks during an Android App Development course by **Lightricks**.
 
 **Front End:** Created with **Android Studio** and **Kotlin** (MVVM arcitecture, RecyclerViews, Permissions, Content Providers). 
 
