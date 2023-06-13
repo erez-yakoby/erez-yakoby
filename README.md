@@ -29,4 +29,4 @@ I created it for practicing React.js.
 ![alt text](https://github.com/erez-yakoby/MineSweeper/blob/main/screenShots/game.png?raw=true)
 
 
-**Tools:** React.js with Material UI library.
+**Tools: React.js** with **Material UI library.**
