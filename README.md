@@ -23,6 +23,8 @@ Me and my partner Dor Peleg created Listricks during an Android App Development 
 
 My take on the nostalgic game.
 
+I created it for practicing React.js.
+
 ![alt text](https://github.com/erez-yakoby/MineSweeper/blob/main/screenShots/game.png?raw=true)
 
 
