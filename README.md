@@ -20,7 +20,9 @@ Me and my partner Dor Peleg created Listricks during an Android App Development 
 **API:** Created **RESTful API** using API Gateway.
 
 ## [MineSweeper](https://github.com/erez-yakoby/MineSweeper.git)
+
 My take on the nostalgic game.
+
 ![alt text](https://github.com/erez-yakoby/MineSweeper/blob/main/screenShots/game.png?raw=true)
 
 
