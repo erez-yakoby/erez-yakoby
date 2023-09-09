@@ -7,6 +7,16 @@ I am a 3rd year student for Computer Science at the Hebrew University.
 # My Projects:
 
 
+## [Facebook - Mock (WORK IN PROGRESS)](https://github.com/erez-yakoby/Facebook-Mock.git)
+![alt text](https://github.com/erez-yakoby/Facebook-Mock/blob/main/screenShots/collage.jpg?raw=true)
+
+I wanted to gain experience with a fullstack modern project so I decided to create a mock of Facebook.
+
+**Front End:** Created with **Android Studio** and **Kotlin** (MVVM arcitecture, RecyclerViews, Permissions, Content Providers). 
+
+**Back End:** Serverless with the services of **AWS (API Gateway, Lambda, DynamoDB, CloudFormation)**, written with **Python**. 
+
+
 ## [Listricks](https://github.com/erez-yakoby/Listricks.git)
 ![alt text](https://github.com/erez-yakoby/Listricks/blob/main/screenShots/collage.jpg?raw=true)
 
