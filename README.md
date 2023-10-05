@@ -30,7 +30,11 @@ https://github.com/erez-yakoby/erez-yakoby/assets/96980806/412edad0-378a-4fcc-a2
   
 - **MongoDB (Mongoose)**
 
+**Extra information:**
 
+There are still a lot of features in progress.
+
+All of the data is stored and fetched from MongoDB.
 
 
 
