@@ -19,12 +19,17 @@ https://github.com/erez-yakoby/erez-yakoby/assets/96980806/412edad0-378a-4fcc-a2
 
 - **Router** for page navigation.
 
-- **Axios** for addressing the server (in progress).
+- **Axios** for addressing the server.
 
 **Back End (in progress):** 
 - **Node.js**.
+  
 - **Express.js**.
+
+- **REST API**
+  
 - **MongoDB (Mongoose)**
+
 
 
 
