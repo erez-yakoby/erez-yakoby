@@ -32,7 +32,14 @@ https://github.com/erez-yakoby/erez-yakoby/assets/96980806/412edad0-378a-4fcc-a2
 
 
 ## [Listricks](https://github.com/erez-yakoby/Listricks.git)
+
+https://github.com/erez-yakoby/erez-yakoby/assets/96980806/bd4b7608-b97b-4e42-8cf1-81b99168ebaf
+
+
 ![alt text](https://github.com/erez-yakoby/Listricks/blob/main/screenShots/collage.jpg?raw=true)
+
+
+
 
 Listricks is an Android app for organizing and sharing shopping lists.
 Me and my partner Dor Peleg created Listricks during an Android App Development course by **Lightricks**.
