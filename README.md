@@ -38,6 +38,16 @@ All of the data is stored and fetched from MongoDB.
 
 
 
+## [Kol Zhoot - Personal Assitant (POC)](https://github.com/erez-yakoby/Kol-Zchut-Personal-Area.git)
+
+**As part of a Product Devlopment course, we developed a POC for a personal assitant to the users of Kol Zchoot website.
+we worked as a team of 6 - 3 SW developers and 3 designers from Bezalel Academy**
+
+https://github.com/erez-yakoby/erez-yakoby/assets/96980806/f567c06b-7215-40b7-89a7-7ebcf57a93fd
+
+**We created the app using next.js with MUI library and mainly pure CSS.**
+
+
 
 
 ## [Listricks](https://github.com/erez-yakoby/Listricks.git)
